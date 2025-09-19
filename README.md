@@ -1,4 +1,4 @@
-# Yifan Xia
+# Yifan Xia [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=你的ID)
 
 # <p align="center">🔍 Exploring Intelligent Vision and Graphics 🔍</p>
 
