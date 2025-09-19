@@ -1,6 +1,6 @@
-# Yifan Xia | Research in Vision and Graphics
+# Yifan Xia
 
-# <p align="center">🔍 Exploring Intelligent Vision：Matching 🔍</p>
+# <p align="center">🔍 Exploring Intelligent Vision and Graphics 🔍</p>
 
 
 🌱 **Repositories** 🌱
