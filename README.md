@@ -14,7 +14,12 @@
 | Image Feature Matching | [Robust Image Matching via Local Graph Structure Consensus](https://www.sciencedirect.com/science/article/pii/S0031320322000693) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue)](https://github.com/XiaYifan1999/XYF/blob/main/Robust%20image%20matching%20via%20local%20graph%20structure%20consensus.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/XiaYifan1999/LGSC?style=social)](https://github.com/XiaYifan1999/LGSC) | PR 2022 |
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently studying at the School of Electronic Information, Wuhan University.  
+- 🌱 I’m currently learning deep learning and computer graphics.  
+- 👯 I’m looking to collaborate on projects related to computer vision and shape matching.  
+- 💬 Ask me about image matching, multimodal registration, or spectral methods.  
+- 📫 How to reach me: xiayifan0329@gmail.com  
+- 😄 Interests: basketball, fitness, and movies.  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
